@@ -1,3 +1,22 @@
-h1 {color:red; font-size:42px; font-family: "futura";}
-h2 {color:green;}
-p {color:skyblue;}
+body {background-color: yellow;}
+
+.div1 {
+  background-color: aquamarine;
+  width: 50%; /* this is responsive to browser */
+  height: 200px;
+  margin: 25px;
+  padding: 10px;
+  border: 17px dashed black;
+  border-radius: 15px;
+}
+
+.div2 {
+  background-color: #269e90;
+  width: 200px;
+  height: 200px;
+  margin: 25px;
+  padding: 10px;
+  border-top: 10px solid black;
+  border-left: 10px solid black;
+  border-radius: 25px;
+}
